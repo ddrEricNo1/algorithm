@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94d11592-db51-45bc-bd8f-863572a5087f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LinkedList_04/FindFirstIntersectNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree_05/InOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree_05/MaxWidth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree_05/PostOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree_05/PreOrderTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList_04/IsPalindromeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList_04/IsPalindromeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList_04/FindFirstIntersectNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList_04/FindFirstIntersectNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,20 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Sorting">
     <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TimeComplexityAndBasicSortingAlgorithms_01.Sorting" />
@@ -91,12 +95,25 @@
       <workItem from="1679584710973" duration="400000" />
       <workItem from="1679585123296" duration="1837000" />
       <workItem from="1679929563753" duration="20000" />
-      <workItem from="1679984356573" duration="7840000" />
+      <workItem from="1679984356573" duration="9430000" />
+      <workItem from="1680083900083" duration="607000" />
+      <workItem from="1680096277990" duration="7595000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
