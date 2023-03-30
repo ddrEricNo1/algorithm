@@ -14,39 +14,80 @@ public class MaxWidth {
     }
 
     // 求二叉树的最大宽度，使用哈希表的方法
-    public static int maxWidth(Node head) {
+    public static int maxWidthHash(Node head) {
         if (head == null) {
             return 0;
         }
         Queue<Node> queue = new LinkedList<>();
+        HashMap<Node, Integer> map = new HashMap<>();
         queue.add(head);
-        HashMap<Node, Integer> levelMap = new HashMap<>();
-        levelMap.put(head, 1);
-        int curLevel = 1;
-        int curLevelNodes = 0;
-        int max = Integer.MIN_VALUE;
+        map.put(head, 1);
+
+        // 记录当前遍历到的高度
+        int height = 1;
+
+        // 记录每一层的节点数
+        int curLevelNum = 0;
+
+        // 记录当前遍历到的最大宽度
+        int max = -1;
+
         while (!queue.isEmpty()) {
             Node cur = queue.poll();
-            int curNodeLevel = levelMap.get(cur);
-            if (curNodeLevel == curLevel) {
-                curLevel++;
+            int curLevel = map.get(cur);
+            if (curLevel == height) {
+                curLevelNum++;
             } else {
-                max = Math.max(max, curLevelNodes);
-                curLevel++;
-                curLevelNodes = 1;
+                max = Math.max(max, curLevelNum);
+                curLevelNum = 1;
+                height++;
             }
             if (cur.left != null) {
-                levelMap.put(cur.left, curNodeLevel + 1);
                 queue.add(cur.left);
+                map.put(cur.left, curLevel + 1);
             }
             if (cur.right != null) {
-                levelMap.put(cur.right, curNodeLevel + 1);
                 queue.add(cur.right);
+                map.put(cur.right, curLevel + 1);
             }
         }
-        return curLevel;
+        return max;
     }
 
     // 不用哈希表的方法
+    public static int maxWidthWithoutHash(Node head) {
+        if (head == null) {
+            return 0;
+        }
+        int width = 0;
+        Queue<Node> queue = new LinkedList<>();
 
+        // 当前层的最后一个节点
+        Node curEnd = null;
+
+        // 下一层的最后一个节点
+        Node nextEnd = null;
+
+        queue.add(head);
+        int nodesCount = 0;
+        while (!queue.isEmpty()) {
+            Node cur = queue.poll();
+            // 判断是否有左右子节点
+            if (cur.left != null) {
+                queue.add(cur.left);
+                nextEnd = cur.left;
+            }
+            if (cur.right != null) {
+                queue.add(cur.right);
+                nextEnd = cur.right;
+            }
+            nodesCount++;
+            if (curEnd == cur) {
+                width = Math.max(width, nodesCount);
+                nodesCount = 0;
+                curEnd = nextEnd;
+            }
+        }
+        return width;
+    }
 }
