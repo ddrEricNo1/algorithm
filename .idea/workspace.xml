@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94d11592-db51-45bc-bd8f-863572a5087f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BinaryTree_05/IsBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree_05/GetSuccessorNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree_05/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree_05/SerializationAndDeserialization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree_05/IsCompleteTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree_05/IsCompleteTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree_05/TestBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree_05/TestBST.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -91,7 +91,10 @@
       <workItem from="1680083900083" duration="607000" />
       <workItem from="1680096277990" duration="7595000" />
       <workItem from="1680170978123" duration="6468000" />
-      <workItem from="1680178931879" duration="4963000" />
+      <workItem from="1680178931879" duration="5041000" />
+      <workItem from="1680352127813" duration="3377000" />
+      <workItem from="1680361851614" duration="447000" />
+      <workItem from="1680409100210" duration="2976000" />
     </task>
     <servers />
   </component>
