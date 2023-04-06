@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94d11592-db51-45bc-bd8f-863572a5087f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Graph_06/Dijkestra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph_06/Prim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/IPO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph_06/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graph_06/BFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph_06/DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graph_06/DFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph_06/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graph_06/Edge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph_06/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graph_06/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph_06/GraphGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graph_06/GraphGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph_06/Kruskal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graph_06/Kruskal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph_06/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graph_06/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph_06/TopologySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graph_06/TopologySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/BestArange.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/BestArange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/LessMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/LessMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/LowestLexicography.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/LowestLexicography.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/TrieTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/TrieTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +99,10 @@
       <workItem from="1680409100210" duration="2976000" />
       <workItem from="1680488566593" duration="46000" />
       <workItem from="1680505668359" duration="8486000" />
-      <workItem from="1680616607887" duration="2672000" />
+      <workItem from="1680616607887" duration="3262000" />
+      <workItem from="1680703394826" duration="2906000" />
+      <workItem from="1680709757311" duration="622000" />
+      <workItem from="1680778413851" duration="3185000" />
     </task>
     <servers />
   </component>
