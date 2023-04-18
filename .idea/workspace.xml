@@ -4,13 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94d11592-db51-45bc-bd8f-863572a5087f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/IPO.java" afterDir="false" />
+    <list default="true" id="94d11592-db51-45bc-bd8f-863572a5087f" name="Changes" comment="2023/4/6">
+      <change afterPath="$PROJECT_DIR$/com/dr/basic01/TrieAndGreedyAlgorithm_07/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/dr/improve02/HashFunctionAndHashTable01/RandomPool.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/BestArange.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/BestArange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/LessMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/LessMoney.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/LowestLexicography.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/LowestLexicography.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/TrieTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/TrieTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree_05/GetSuccessorNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/BinaryTree_05/GetSuccessorNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree_05/InOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/BinaryTree_05/InOrderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree_05/IsBalanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/BinaryTree_05/IsBalanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree_05/IsCompleteTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/BinaryTree_05/IsCompleteTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree_05/LevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/BinaryTree_05/LevelOrderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree_05/LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/BinaryTree_05/LowestCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree_05/MaxWidth.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/BinaryTree_05/MaxWidth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree_05/PostOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/BinaryTree_05/PostOrderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree_05/PreOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/BinaryTree_05/PreOrderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree_05/SerializationAndDeserialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/BinaryTree_05/SerializationAndDeserialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree_05/TestBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/BinaryTree_05/TestBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BucketSortingAndSortingSummary_03/ComparatorForMinHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/BucketSortingAndSortingSummary_03/ComparatorForMinHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BucketSortingAndSortingSummary_03/HeapSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/BucketSortingAndSortingSummary_03/HeapSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BucketSortingAndSortingSummary_03/MinHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/BucketSortingAndSortingSummary_03/MinHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BucketSortingAndSortingSummary_03/RadixSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/BucketSortingAndSortingSummary_03/RadixSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BucketSortingAndSortingSummary_03/SortedArrDistanceLessK.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/BucketSortingAndSortingSummary_03/SortedArrDistanceLessK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph_06/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/Graph_06/BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph_06/DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/Graph_06/DFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph_06/Dijkestra.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/Graph_06/Dijkestra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph_06/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/Graph_06/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph_06/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/Graph_06/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph_06/GraphGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/Graph_06/GraphGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph_06/Kruskal.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/Graph_06/Kruskal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph_06/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/Graph_06/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph_06/Prim.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/Graph_06/Prim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph_06/TopologySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/Graph_06/TopologySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList_04/CopyListWithRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/LinkedList_04/CopyListWithRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList_04/FindFirstIntersectNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/LinkedList_04/FindFirstIntersectNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList_04/IsPalindromeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/LinkedList_04/IsPalindromeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList_04/SmallerEqualBigger.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/LinkedList_04/SmallerEqualBigger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithmsWithComplexityONLOGN_02/MergeSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/SortingAlgorithmsWithComplexityONLOGN_02/MergeSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithmsWithComplexityONLOGN_02/QuickSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/SortingAlgorithmsWithComplexityONLOGN_02/QuickSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithmsWithComplexityONLOGN_02/ReverseOrders.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/SortingAlgorithmsWithComplexityONLOGN_02/ReverseOrders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithmsWithComplexityONLOGN_02/SmallSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/SortingAlgorithmsWithComplexityONLOGN_02/SmallSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TimeComplexityAndBasicSortingAlgorithms_01/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/TimeComplexityAndBasicSortingAlgorithms_01/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TimeComplexityAndBasicSortingAlgorithms_01/TimeComplexity.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/TimeComplexityAndBasicSortingAlgorithms_01/TimeComplexity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/BestArange.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/TrieAndGreedyAlgorithm_07/BestArange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/IPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/TrieAndGreedyAlgorithm_07/IPO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/LessMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/TrieAndGreedyAlgorithm_07/LessMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/LowestLexicography.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/TrieAndGreedyAlgorithm_07/LowestLexicography.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/NQueens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrieAndGreedyAlgorithm_07/TrieTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dr/basic01/TrieAndGreedyAlgorithm_07/TrieTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +94,11 @@
 }</component>
   <component name="RunManager" selected="Application.Sorting">
     <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimeComplexityAndBasicSortingAlgorithms_01.Sorting" />
+      <option name="MAIN_CLASS_NAME" value="com.dr.basic01.TimeComplexityAndBasicSortingAlgorithms_01.Sorting" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TimeComplexityAndBasicSortingAlgorithms_01.*" />
+          <option name="PATTERN" value="com.dr.basic01.TimeComplexityAndBasicSortingAlgorithms_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,7 +107,7 @@
       </method>
     </configuration>
     <configuration name="TimeComplexity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimeComplexityAndBasicSortingAlgorithms_01.TimeComplexity" />
+      <option name="MAIN_CLASS_NAME" value="com.dr.basic01.TimeComplexityAndBasicSortingAlgorithms_01.TimeComplexity" />
       <module name="algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,8 +141,17 @@
       <workItem from="1680616607887" duration="3262000" />
       <workItem from="1680703394826" duration="2906000" />
       <workItem from="1680709757311" duration="622000" />
-      <workItem from="1680778413851" duration="3185000" />
+      <workItem from="1680778413851" duration="6969000" />
+      <workItem from="1681810919096" duration="2981000" />
     </task>
+    <task id="LOCAL-00001" summary="2023/4/6">
+      <created>1680786175404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680786175404</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +167,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2023/4/6" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/4/6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
