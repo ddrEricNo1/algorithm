@@ -1,4 +1,4 @@
-package com.dr.improve02.HashFunctionAndHashTable01;
+package com.dr.improve02.UnionFind02;
 
 public class Islands {
     // 主方法
