@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94d11592-db51-45bc-bd8f-863572a5087f" name="Changes" comment="2023/4/6">
-      <change afterPath="$PROJECT_DIR$/com/dr/improve02/Manacher04/Manacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/dr/improve02/SlidingWindow05/SlidingWindowMaxArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/dr/improve02/class05/MaxDistanceInTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/dr/improve02/class05/MaxHappy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/dr/improve02/class05/MorrisTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/dr/improve02/class05/isBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,6 +128,10 @@
       <workItem from="1682220483240" duration="4173000" />
       <workItem from="1682441254982" duration="594000" />
       <workItem from="1682615843882" duration="3047000" />
+      <workItem from="1682644581805" duration="68000" />
+      <workItem from="1682644736984" duration="622000" />
+      <workItem from="1682659299281" duration="1846000" />
+      <workItem from="1682918601095" duration="6789000" />
     </task>
     <task id="LOCAL-00001" summary="2023/4/6">
       <created>1680786175404</created>
