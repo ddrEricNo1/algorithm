@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94d11592-db51-45bc-bd8f-863572a5087f" name="Changes" comment="2023/4/6">
-      <change afterPath="$PROJECT_DIR$/com/dr/improve02/class07/CoinsMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/dr/improve02/class07/RobotWalk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/dr/improve02/class08/CardsInLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/dr/improve02/class08/HorseJump.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,6 +133,10 @@
       <workItem from="1683171625186" duration="4887000" />
       <workItem from="1683280747977" duration="9156000" />
       <workItem from="1683368677300" duration="606000" />
+      <workItem from="1683996384528" duration="595000" />
+      <workItem from="1684090002503" duration="113000" />
+      <workItem from="1684938226613" duration="58000" />
+      <workItem from="1685038226618" duration="3236000" />
     </task>
     <task id="LOCAL-00001" summary="2023/4/6">
       <created>1680786175404</created>
