@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94d11592-db51-45bc-bd8f-863572a5087f" name="Changes" comment="2023/4/6">
-      <change afterPath="$PROJECT_DIR$/com/dr/improve02/class08/CardsInLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/dr/improve02/class08/HorseJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/dr/improve02/class08/BobDie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/dr/improve02/class08/CoinsWays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Islands">
+  <component name="RunManager" selected="Application.CoinsWays">
+    <configuration name="CoinsWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dr.improve02.class08.CoinsWays" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dr.improve02.class08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Islands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dr.improve02.UnionFind02.Islands" />
       <module name="algorithm" />
@@ -86,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoinsWays" />
         <item itemvalue="Application.Islands" />
       </list>
     </recent_temporary>
@@ -137,6 +151,7 @@
       <workItem from="1684090002503" duration="113000" />
       <workItem from="1684938226613" duration="58000" />
       <workItem from="1685038226618" duration="3236000" />
+      <workItem from="1685207048418" duration="5210000" />
     </task>
     <task id="LOCAL-00001" summary="2023/4/6">
       <created>1680786175404</created>
