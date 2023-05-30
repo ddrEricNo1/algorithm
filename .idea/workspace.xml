@@ -5,9 +5,112 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94d11592-db51-45bc-bd8f-863572a5087f" name="Changes" comment="2023/4/6">
-      <change afterPath="$PROJECT_DIR$/com/dr/improve02/class08/BobDie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/dr/improve02/class08/CoinsWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/dr/middleImprove03/class01/JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/dr/middleImprove03/class01/LRU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/dr/middleImprove03/class01/TopKSumCrossTwoArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/GetSuccessorNode$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/GetSuccessorNode$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/GetSuccessorNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/GetSuccessorNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/InOrderTraversal$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/InOrderTraversal$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/InOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/InOrderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/IsBalanced$Node$ReturnType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/IsBalanced$Node$ReturnType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/IsBalanced$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/IsBalanced$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/IsBalanced.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/IsBalanced.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/IsCompleteTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/IsCompleteTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/IsCompleteTree$ReturnData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/IsCompleteTree$ReturnData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/IsCompleteTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/IsCompleteTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/LevelOrderTraversal$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/LevelOrderTraversal$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/LevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/LevelOrderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/LowestCommonAncestor$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/LowestCommonAncestor$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/LowestCommonAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/LowestCommonAncestor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/MaxWidth$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/MaxWidth$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/MaxWidth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/MaxWidth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/PostOrderTraversal$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/PostOrderTraversal$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/PostOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/PostOrderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/PreOrderTraversal$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/PreOrderTraversal$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/PreOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/PreOrderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/SerializationAndDeserialization$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/SerializationAndDeserialization$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/SerializationAndDeserialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/SerializationAndDeserialization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/TestBST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/TestBST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/TestBST$ReturnData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/TestBST$ReturnData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/TestBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BinaryTree_05/TestBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BucketSortingAndSortingSummary_03/ComparatorForMinHeap$AComp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BucketSortingAndSortingSummary_03/ComparatorForMinHeap$AComp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BucketSortingAndSortingSummary_03/ComparatorForMinHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BucketSortingAndSortingSummary_03/ComparatorForMinHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BucketSortingAndSortingSummary_03/HeapSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BucketSortingAndSortingSummary_03/HeapSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BucketSortingAndSortingSummary_03/MinHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BucketSortingAndSortingSummary_03/MinHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BucketSortingAndSortingSummary_03/RadixSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BucketSortingAndSortingSummary_03/RadixSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BucketSortingAndSortingSummary_03/SortedArrDistanceLessK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/BucketSortingAndSortingSummary_03/SortedArrDistanceLessK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/BFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/DFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/DFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/Dijkestra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/Dijkestra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/GraphGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/GraphGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/Kruskal$MySets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/Kruskal$MySets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/Kruskal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/Kruskal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/Prim$EdgeComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/Prim$EdgeComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/Prim.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/Prim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/TopologySort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/Graph_06/TopologySort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/LinkedList_04/CopyListWithRandom$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/LinkedList_04/CopyListWithRandom$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/LinkedList_04/CopyListWithRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/LinkedList_04/CopyListWithRandom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/LinkedList_04/FindFirstIntersectNode$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/LinkedList_04/FindFirstIntersectNode$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/LinkedList_04/FindFirstIntersectNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/LinkedList_04/FindFirstIntersectNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/LinkedList_04/IsPalindromeList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/LinkedList_04/IsPalindromeList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/LinkedList_04/IsPalindromeList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/LinkedList_04/IsPalindromeList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/LinkedList_04/SmallerEqualBigger$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/LinkedList_04/SmallerEqualBigger$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/LinkedList_04/SmallerEqualBigger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/LinkedList_04/SmallerEqualBigger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/SortingAlgorithmsWithComplexityONLOGN_02/MergeSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/SortingAlgorithmsWithComplexityONLOGN_02/MergeSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/SortingAlgorithmsWithComplexityONLOGN_02/QuickSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/SortingAlgorithmsWithComplexityONLOGN_02/QuickSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/SortingAlgorithmsWithComplexityONLOGN_02/ReverseOrders.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/SortingAlgorithmsWithComplexityONLOGN_02/ReverseOrders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/SortingAlgorithmsWithComplexityONLOGN_02/SmallSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/SortingAlgorithmsWithComplexityONLOGN_02/SmallSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TimeComplexityAndBasicSortingAlgorithms_01/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TimeComplexityAndBasicSortingAlgorithms_01/Sorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TimeComplexityAndBasicSortingAlgorithms_01/TimeComplexity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TimeComplexityAndBasicSortingAlgorithms_01/TimeComplexity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/BestArange$Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/BestArange$Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/BestArange$ProgramComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/BestArange$ProgramComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/BestArange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/BestArange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/IPO$MaxProfitComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/IPO$MaxProfitComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/IPO$MinCostComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/IPO$MinCostComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/IPO$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/IPO$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/IPO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/IPO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/LessMoney.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/LessMoney.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/LowestLexicography$MyComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/LowestLexicography$MyComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/LowestLexicography.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/LowestLexicography.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/NQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/NQueens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/TrieTree$Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/TrieTree$Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/TrieTree$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/TrieTree$TrieNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/TrieTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/basic01/TrieAndGreedyAlgorithm_07/TrieTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/HashFunctionAndHashTable01/BitMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/HashFunctionAndHashTable01/BitMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/HashFunctionAndHashTable01/RandomPool$Pool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/HashFunctionAndHashTable01/RandomPool$Pool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/HashFunctionAndHashTable01/RandomPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/HashFunctionAndHashTable01/RandomPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/KMP03/KMP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/KMP03/KMP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/Manacher04/Manacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/Manacher04/Manacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/SlidingWindow05/SlidingWindowMaxArray$WindowMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/SlidingWindow05/SlidingWindowMaxArray$WindowMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/SlidingWindow05/SlidingWindowMaxArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/SlidingWindow05/SlidingWindowMaxArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/UnionFind02/Islands.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/UnionFind02/Islands.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/UnionFind02/UnionFind$Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/UnionFind02/UnionFind$Element.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/UnionFind02/UnionFind$UnionFindSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/UnionFind02/UnionFind$UnionFindSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/UnionFind02/UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/UnionFind02/UnionFind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/MaxDistanceInTree$Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/MaxDistanceInTree$Info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/MaxDistanceInTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/MaxDistanceInTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/MaxDistanceInTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/MaxDistanceInTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/MaxHappy$Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/MaxHappy$Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/MaxHappy$Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/MaxHappy$Info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/MaxHappy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/MaxHappy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/MorrisTraversal$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/MorrisTraversal$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/MorrisTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/MorrisTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/isBST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/isBST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/isBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class05/isBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class06/AddMinusMultiDivideByBit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class06/AddMinusMultiDivideByBit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class06/GetMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class06/GetMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class06/Power.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class06/Power.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class07/CoinsMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class07/CoinsMin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class07/RobotWalk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class07/RobotWalk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class08/BobDie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class08/BobDie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class08/CardsInLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class08/CardsInLine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class08/CoinsWays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class08/CoinsWays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class08/HorseJump.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/dr/improve02/class08/HorseJump.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,21 +138,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/eric/algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.CoinsWays">
     <configuration name="CoinsWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dr.improve02.class08.CoinsWays" />
@@ -152,6 +256,10 @@
       <workItem from="1684938226613" duration="58000" />
       <workItem from="1685038226618" duration="3236000" />
       <workItem from="1685207048418" duration="5210000" />
+      <workItem from="1685285988144" duration="394000" />
+      <workItem from="1685344621802" duration="490000" />
+      <workItem from="1685378631233" duration="49000" />
+      <workItem from="1685450455103" duration="7783000" />
     </task>
     <task id="LOCAL-00001" summary="2023/4/6">
       <created>1680786175404</created>

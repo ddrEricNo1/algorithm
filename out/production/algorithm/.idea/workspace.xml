@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94d11592-db51-45bc-bd8f-863572a5087f" name="Changes" comment="2023/4/6">
-      <change afterPath="$PROJECT_DIR$/com/dr/improve02/class08/BobDie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/dr/improve02/class08/CoinsWays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +149,8 @@
       <workItem from="1684090002503" duration="113000" />
       <workItem from="1684938226613" duration="58000" />
       <workItem from="1685038226618" duration="3236000" />
-      <workItem from="1685207048418" duration="4195000" />
+      <workItem from="1685207048418" duration="5210000" />
+      <workItem from="1685285988144" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="2023/4/6">
       <created>1680786175404</created>
