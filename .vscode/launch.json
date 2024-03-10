@@ -1,0 +1,40 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "bitmap",
+      "request": "launch",
+      "mainClass": "位运算.bitmap",
+      "projectName": "algorithm_96108635"
+    },
+    {
+      "type": "java",
+      "name": "异或运算",
+      "request": "launch",
+      "mainClass": "位运算.异或运算",
+      "projectName": "algorithm_24e998c"
+    },
+    {
+      "type": "java",
+      "name": "ch1_排序总结",
+      "request": "launch",
+      "mainClass": "ch1_排序总结",
+      "projectName": "algorithm_24e998c"
+    },
+    {
+      "type": "java",
+      "name": "HashSetAndHashMap",
+      "request": "launch",
+      "mainClass": "哈希表有序表和比较器用法.HashSetAndHashMap",
+      "projectName": "algorithm_24e998c"
+    },
+    {
+      "type": "java",
+      "name": "归并排序",
+      "request": "launch",
+      "mainClass": "归并排序",
+      "projectName": "algorithm_24e998c"
+    }
+  ]
+}
