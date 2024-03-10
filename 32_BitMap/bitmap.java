@@ -1,5 +1,3 @@
-package 位运算;
-
 import java.util.HashSet;
 
 // bitmap is used to store whether a number is stored in the structure or not
@@ -14,6 +12,7 @@ public class bitmap {
     public bitmap(int n) {
         // ceiling (n / 32)
         set = new int[(n + 31) / 32];
+        
     }
 
     // add the number into bitmap
